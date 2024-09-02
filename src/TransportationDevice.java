@@ -1,4 +1,4 @@
-public abstract class TransportationDevice {
+public abstract class TransportationDevice implements ServiceStation {
 
     private String modelName;
     private int wheelsCount;

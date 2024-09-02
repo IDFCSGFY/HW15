@@ -1,4 +1,4 @@
-public class Bicycle extends TransportationDevice implements ServiceStation {
+public class Bicycle extends TransportationDevice {
 
     public Bicycle(String modelName, int wheelsCount) {
         super(modelName, wheelsCount);
